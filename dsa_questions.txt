@@ -1,0 +1,107 @@
+Arrays & Strings
+
+Two Sum / Three Sum
+Best Time to Buy and Sell Stock
+Maximum Subarray (Kadane's Algorithm)
+Rotate Array
+Palindrome(practice)
+Longest Substring Without Repeating Characters
+Valid Anagram & Group Anagrams
+Product of Array Except Self
+Trapping Rain Water
+
+
+Linked Lists
+
+Reverse a Linked List
+Detect Cycle (Floyd's Algorithm)
+Merge Two Sorted Lists
+Remove N-th Node from End
+Find Middle of Linked List
+LRU Cache
+
+
+Stacks & Queues
+
+Valid Parentheses
+Min Stack
+Daily Temperatures
+Largest Rectangle in Histogram
+Implement Queue using Stacks
+
+
+Trees & BST
+
+Inorder / Preorder / Postorder Traversal
+Maximum Depth of Binary Tree
+Level Order Traversal (BFS)
+Lowest Common Ancestor
+Validate BST
+Binary Tree Right Side View
+Diameter of Binary Tree
+Serialize & Deserialize Binary Tree
+
+
+Graphs
+
+Number of Islands (DFS/BFS)
+Clone Graph
+Course Schedule (Topological Sort)
+Dijkstra's Shortest Path
+Word Ladder
+Pacific Atlantic Water Flow
+Union-Find / Disjoint Set
+
+
+Recursion & Backtracking
+
+Subsets & Permutations
+Combination Sum
+N-Queens Problem
+Sudoku Solver
+Word Search
+
+
+Dynamic Programming
+
+Climbing Stairs / Fibonacci
+0/1 Knapsack
+Longest Common Subsequence
+Longest Increasing Subsequence
+Coin Change
+Coin Change 2
+Partition Equal Subset Sum
+Edit Distance
+Unique Paths
+
+
+Binary Search
+
+Binary Search (classic)
+Search in Rotated Sorted Array
+Find Minimum in Rotated Array
+Median of Two Sorted Arrays
+Koko Eating Bananas
+
+
+Heaps & Priority Queues
+
+Kth Largest Element in Array
+Top K Frequent Elements
+Merge K Sorted Lists
+Find Median from Data Stream
+
+
+Sliding Window & Two Pointers
+
+Maximum Sum Subarray of Size K
+Minimum Window Substring
+Container With Most Water
+3Sum Closest
+
+
+Tries
+
+Implement Trie (Insert, Search, StartsWith)
+Word Search II
+Replace Words
