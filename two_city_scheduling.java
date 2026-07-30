@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int twoCitySchedCost(int[][] costs) {
         int n = costs.length / 2;
