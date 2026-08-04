@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.ArrayList;
+
 class Solution {
     public int[][] merge(int[][] intervals) {
         int n = intervals.length;
