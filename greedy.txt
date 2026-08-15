@@ -1,0 +1,22 @@
+455. Assign Cookies — sort both arrays, two pointer to match greedily.
+860. Lemonade Change — just counting/tracking bills, no extra structure needed.
+1005. Maximize Sum Of Array After K Negations — sort, flip greedily.
+122. Best Time to Buy and Sell Stock II — single pass, grab every positive gain.
+944. Delete Columns to Make Sorted — check each column, simple comparison.
+2160. Minimum Sum of Four Digit Number After Splitting Digits — sort 4 digits, pair smallest with largest place values.
+605. Can Place Flowers — single pass, greedily place where possible.
+1518. Water Bottles — simple greedy simulation, no extra structure.
+1710. Maximum Units on a Truck — sort by units per box, fill greedily (two pointer style).
+
+334 (Increasing Triplet Subsequence)
+1029 (Two City Scheduling)
+948 (Bag of Tokens)
+452 (Minimum Arrows to Burst Balloons)
+56 (Merge Intervals)
+763 (Partition Labels)
+870 (Advantage Shuffle)
+406 (Queue Reconstruction by Height)
+135 (Candy)
+991 (Broken Calculator)
+767 (Reorganize String)
+621 (Task Scheduler)
