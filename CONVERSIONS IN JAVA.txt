@@ -36,3 +36,12 @@ for (int i = 0; i < s.length(); i++) {
     char c = s.charAt(i);
     list.add(c);
 }
+
+EXTRA STUFF:
+
+reverse arraylist:
+Collections.reverse(list)
+
+convert to binary string:
+int n=10;
+string s=Integer.toBinaryString(n);
