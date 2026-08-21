@@ -1,18 +1,18 @@
-import java.util.Stack;
 import java.util.ArrayList;
+import java.util.Stack;
 
-public class nearest_greatest_left {
+public class nearest_smaller_left {
     public static ArrayList<Integer> find(int[] arr) {
+        int n = arr.length;
         ArrayList<Integer> list = new ArrayList<>();
         Stack<Integer> stack = new Stack<>();
-        int n = arr.length;
         for (int i = 0; i < n; i++) {
             if (stack.isEmpty()) {
                 list.add(-1);
-            } else if (!stack.isEmpty() && stack.peek() > arr[i]) {
+            } else if (!stack.isEmpty() && stack.peek() < arr[i]) {
                 list.add(stack.peek());
-            } else if (!stack.isEmpty() && stack.peek() <= arr[i]) {
-                while (!stack.isEmpty() && stack.peek() <= arr[i]) {
+            } else if (!stack.isEmpty() && stack.peek() >= arr[i]) {
+                while (!stack.isEmpty() && stack.peek() >= arr[i]) {
                     stack.pop();
                 }
                 if (stack.isEmpty()) {
