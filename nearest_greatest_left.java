@@ -1,6 +1,5 @@
 import java.util.Stack;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class nearest_greatest_left {
     public static ArrayList<Integer> find(int[] arr) {
