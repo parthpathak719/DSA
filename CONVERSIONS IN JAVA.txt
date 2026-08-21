@@ -45,3 +45,15 @@ Collections.reverse(list)
 convert to binary string:
 int n=10;
 string s=Integer.toBinaryString(n);
+
+reverse string:
+String t = new StringBuilder(s).reverse().toString()
+
+list to array:
+int[][] arr = list.toArray(new int[list.size()][]);
+
+string to lowercase:
+String strLower = str.toLowerCase();
+
+string cleaning:
+string cleaned = str.replaceAll("[^a-zA-Z0-9 ]", "");

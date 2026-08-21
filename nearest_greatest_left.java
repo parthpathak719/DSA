@@ -1,13 +1,13 @@
+import java.util.Stack;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Stack;
 
-public class nearest_greatest_right {
+public class nearest_greatest_left {
     public static ArrayList<Integer> find(int[] arr) {
         ArrayList<Integer> list = new ArrayList<>();
         Stack<Integer> stack = new Stack<>();
         int n = arr.length;
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = 0; i < n; i++) {
             if (stack.isEmpty()) {
                 list.add(-1);
             } else if (!stack.isEmpty() && stack.peek() > arr[i]) {
@@ -24,7 +24,6 @@ public class nearest_greatest_right {
             }
             stack.push(arr[i]);
         }
-        Collections.reverse(list);
         return list;
     }
 
