@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int bagOfTokensScore(int[] tokens, int power) {
         int n = tokens.length;
