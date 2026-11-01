@@ -1,4 +1,4 @@
-# LeetCode Practice List — Arrays, Strings, Greedy
+# LeetCode Practice List - Arrays, Strings, Greedy
 
 These are picked to avoid overlap with what you already have solved in your zip
 (Two Sum, Kadane's, Rotate Array, Best Time to Buy/Sell Stock, Longest Substring
@@ -57,6 +57,40 @@ problems).
 18. Repeated Substring Pattern (Easy)
 19. Score of Parentheses (Medium)
 
+### Very Easy Strings (added, 20 to 47)
+
+Warm up problems, roughly ordered from simplest to slightly harder. Most are a
+single loop over the string.
+
+20. Reverse String (Easy)
+21. To Lower Case (Easy)
+22. Defanging an IP Address (Easy)
+23. Jewels and Stones (Easy)
+24. Truncate Sentence (Easy)
+25. Check if the Sentence Is Pangram (Easy)
+26. Goal Parser Interpretation (Easy)
+27. Merge Strings Alternately (Easy)
+28. Check if Two String Arrays are Equivalent (Easy)
+29. Shuffle String (Easy)
+30. Reverse Prefix of Word (Easy)
+31. Length of Last Word (Easy)
+32. Number of Segments in a String (Easy)
+33. First Unique Character in a String (Easy)
+34. Find the Difference (Easy)
+35. Detect Capital (Easy)
+36. Reverse Vowels of a String (Easy)
+37. Reverse Words in a String III (Easy)
+38. Reverse String II (Easy)
+39. Robot Return to Origin (Easy)
+40. Maximum Number of Balloons (Easy)
+41. Longest Palindrome (Easy)
+42. Valid Parentheses (Easy)
+43. Find the Index of the First Occurrence in a String (Easy)
+44. Add Binary (Easy)
+45. Add Strings (Easy)
+46. Backspace String Compare (Easy)
+47. Rotate String (Easy)
+
 ## Greedy (Easy / Medium only)
 
 1. Gas Station (Medium)
@@ -79,3 +113,7 @@ Once those feel comfortable, move to the remaining items in each section. Contai
 With Most Water, 3Sum, and Subarray Sum Equals K are good array checkpoints. Gas
 Station and Task Scheduler are good greedy checkpoints since they show up often in
 interviews.
+
+If you want an easier ramp into strings, do Strings 20 through 33 first as warm
+ups, then come back to Strings 1 through 10. Valid Parentheses (42) is also the
+entry point to the stack problems on your roadmap.
